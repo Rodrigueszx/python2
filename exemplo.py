@@ -8,3 +8,4 @@ curso = "python desenvolvedor"
 print(curso)
 
 print(math.pow(2,100))
+print(math.pow(2,1000))
