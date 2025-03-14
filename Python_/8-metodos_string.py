@@ -9,4 +9,4 @@ print(movieName.center(10, '-')) #retorna string centralizada com caractere de p
 print(movieName.find("u")) #retorna o índice da primeira ocorrência de uma substring
 print(movieName.find("o")) #retorna a contagem de ocorrências de uma substring
 print(movieName.replace("top","matrix")) #substitui uma substring por outra
-print(movieDescription.split(','))
+print(movieDescription.split(',')) #divide a string em uma lista de substrings
